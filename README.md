@@ -3,7 +3,7 @@ PA1_template.Rmd
 PA1_template
 Saravanan Subramaniam
 
-Sunday, September 14, 2014
+Sunday, October 19, 2014
 
 Loading and preprocessing the Data:
 Dataset <- read.csv("C:/Users/Dr.Saravanan/Desktop/R/activity.csv")
